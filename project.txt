@@ -1,0 +1,54 @@
+# Project Config — Coffee at the Dock
+# Created: 2026-03-23
+# Last updated: 2026-03-23
+
+## Client Details
+- Business Name: Coffee at the Dock
+- Contact Name: Frances Galbraith
+- Contact Email: coffeeatthedock@gmail.com
+- Contact Phone: +44 7718 805633
+- Website (existing): None (Facebook only)
+- Google Listing: Bakeries coleraine northern ireland
+- Social Media: https://www.facebook.com/coffeeatthedock/
+
+## Location
+- Address: Castle Ln, Coleraine, BT51 3DR, United Kingdom
+- Previous Location: 38 Castleroe Rd (relocated late 2024)
+- Google Rating: 4.7 (293 reviews)
+
+## Accounts & Keys
+- Web3Forms Access Key: YOUR_WEB3FORMS_ACCESS_KEY
+- GitHub Repo: https://github.com/AeonReon/coffee-at-the-dock
+- Vercel Project:
+- Live URL:
+
+## Brand
+- Primary Colour: #5C3D2E (warm coffee brown)
+- Secondary Colour: #4A7C59 (muted riverside green)
+- Accent Colour: #D4A574 (warm caramel)
+- Font: Google Fonts (Playfair Display + Open Sans)
+- Logo: images/logo.png
+
+## Business Info
+- Type: Tea and coffee shop / bakery / hot food
+- Hours: Mon-Fri 9-4, Sat 10-4, Sun 11-3
+- Menu: Coffee, tea, burgers, pizza, wraps, Irish stew, baked goods, breakfast
+- USPs: Riverside setting, dog-friendly, community hub, Covid lockdown origin story
+- Owner Story: Frances started during Covid with a caravan on the River Bann, grew into thriving community hub, relocated to Castle Lane in late 2024 after community rallied to help
+
+## Project Notes
+- One Clear Next Step (CTA): Visit Us Today (drive foot traffic)
+- Target Customer: Local residents, dog walkers, families, riverside visitors
+- Industry/Genre: Restaurant and Cafe
+- Template images used from: TEMPLATES/Restaurant and Cafe/
+- Competitors: Fidela Coffee Roasters, The Boatyard, Calf Lane Kitchen
+
+## Status
+- [x] Research done
+- [ ] First build complete
+- [ ] Client review
+- [ ] Revisions done
+- [ ] Images swapped (stock → real)
+- [ ] Web3Forms key added
+- [ ] Deployed live
+- [ ] Handed off to client
